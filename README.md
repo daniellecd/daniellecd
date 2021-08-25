@@ -9,7 +9,7 @@
 
 - 👨‍💻 Portfólio: [https://github.com/daniellecd/portfolio](https://github.com/daniellecd/portfolio)
 
-- 🦸‍♀️Grupo voluntário: [https://linktr.ee/mulheresemdados](https://linktr.ee/mulheresemdados)
+- 🦸‍ Trabalho voluntário: [https://linktr.ee/mulheresemdados](https://linktr.ee/mulheresemdados)
 
 - 📫 Contato: **daniellecd.ads@gmail.com**
 
