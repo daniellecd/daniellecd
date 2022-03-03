@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniellecd&label=Profile%20views&color=0e75b6&style=flat" alt="daniellecd" /> </p>
 
-- 📚 Atualmente aprendendo sobre: **Big Data Science (Semantix)**
-
-- 📚 Conteúdo do curso: **Big Data Foundations | Armazenamento e Escrita de Dados | Estatística Descritiva | Python | Scikit-learn | PySpark | Redes Neurais | AG e NLP**
+- 📚 Atualmente aprendendo sobre: **Apache Airflow**
 
 - 👨‍💻 Portfólio: [https://github.com/daniellecd/portfolio](https://github.com/daniellecd/portfolio)
 
