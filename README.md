@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniellecd&label=Profile%20views&color=0e75b6&style=flat" alt="daniellecd" /> </p>
 
-- 📚 Atualmente aprendendo sobre: **Apache Airflow**
+- 📚 Atualmente aprendendo sobre: **Databricks | AZURE | GCP**
 
 - 👨‍💻 Portfólio: [https://github.com/daniellecd/portfolio](https://github.com/daniellecd/portfolio)
-
-- 🦸‍ Trabalho voluntário: [https://linktr.ee/mulheresemdados](https://linktr.ee/mulheresemdados)
 
 - 📫 Contato: **daniellecd.ads@gmail.com**
 
